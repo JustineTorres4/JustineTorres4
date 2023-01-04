@@ -8,7 +8,7 @@
 |>                                                                    | |
 |- I'm in the 4th semester of Computer Science                        | |
 |- I’m currently learning Java                                        | |
-|- Pronouns: She/Her ♡♡♡♡                                            | |
+|- Pronouns: She/Her ♡♡♡♡                                             | |
 |- You can reach me by... actually no ^^                              | |
 |                                                                     |_|
 |_____________________________________________________________________|/|</pre>
