@@ -7,7 +7,7 @@
 |14.Work:Igitu/JuneGabi> kitten README.md                             | |
 |>                                                                    | |
 |- I'm in the 5th semester of Computer Science                        | |
-|- I’m currently learning DevOps stuff                                 | |
+|- I’m currently learning DevOps stuff                                | |
 |- Pronouns: She/Her ♡♡♡♡                                             | |
 |- You can reach me by... actually no ^^                              | |
 |                                                                     |_|
