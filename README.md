@@ -6,8 +6,8 @@
 |14.Workbench:> cd git:junegabi                                       | |
 |14.Work:Igitu/JuneGabi> kitten README.md                             | |
 |>                                                                    | |
-|- I'm in the 4th semester of Computer Science                        | |
-|- I’m currently learning Java                                        | |
+|- I'm in the 5th semester of Computer Science                        | |
+|- I’m currently learning DevOps stuff                                 | |
 |- Pronouns: She/Her ♡♡♡♡                                             | |
 |- You can reach me by... actually no ^^                              | |
 |                                                                     |_|
