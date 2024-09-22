@@ -1,6 +1,6 @@
 <h3>Hiii! I’m Justine! But my friends call me June ♡</h3>
 
-_______________________________________________________________________
+<pre>_______________________________________________________________________
 |[] CelesteShell                                                  |F]|!"|
 |"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""|"|
 |14.Workbench:> cd git:junegabi                                       | |
@@ -9,9 +9,11 @@ _______________________________________________________________________
 |- I'm in the 8th semester of Computer Science                        | |
 |- I’m currently learning DevOps stuff                                | |
 |- Pronouns: She/Her                                                  | |
-|- You can reach me [here](https://justineslunchbox.neocities.org/socials/)!                                             | |
+|- You can reach me on my socials below!                              | |
 |                                                                     |_|
-|_____________________________________________________________________|/|
+|_____________________________________________________________________|/|</pre>
+
+[Socials](https://justineslunchbox.neocities.org/socials/)
 
 </div>
 
